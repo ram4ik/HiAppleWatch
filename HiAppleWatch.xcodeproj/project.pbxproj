@@ -15,6 +15,7 @@
 		95CC425D2775DC0600FB24E9 /* ComplicationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95CC425C2775DC0600FB24E9 /* ComplicationController.swift */; };
 		95CC425F2775DC0800FB24E9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 95CC425E2775DC0800FB24E9 /* Assets.xcassets */; };
 		95CC42622775DC0800FB24E9 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 95CC42612775DC0800FB24E9 /* Preview Assets.xcassets */; };
+		95CC42722775DCAF00FB24E9 /* EmojiSentence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95CC42712775DCAF00FB24E9 /* EmojiSentence.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -70,6 +71,7 @@
 		95CC425E2775DC0800FB24E9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		95CC42612775DC0800FB24E9 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		95CC42632775DC0800FB24E9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		95CC42712775DCAF00FB24E9 /* EmojiSentence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmojiSentence.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -119,6 +121,7 @@
 				95CC425E2775DC0800FB24E9 /* Assets.xcassets */,
 				95CC42632775DC0800FB24E9 /* Info.plist */,
 				95CC42602775DC0800FB24E9 /* Preview Content */,
+				95CC42712775DCAF00FB24E9 /* EmojiSentence.swift */,
 			);
 			path = "HiAppleWatch WatchKit Extension";
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 				95CC42592775DC0600FB24E9 /* ContentView.swift in Sources */,
 				95CC425B2775DC0600FB24E9 /* HiAppleWatchApp.swift in Sources */,
 				95CC425D2775DC0600FB24E9 /* ComplicationController.swift in Sources */,
+				95CC42722775DCAF00FB24E9 /* EmojiSentence.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
